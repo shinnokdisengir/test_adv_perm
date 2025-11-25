@@ -1,0 +1,27 @@
+# Default repository coverage
+* @shinnokdisengir
+
+# Frontend
+/frontend/** @shinnokdisengir
+
+# Backend
+/backend/** @Annopaolo
+
+# Db
+/db/** @noaccOS
+
+# Docs
+/doc/** @Annopaolo
+
+# CI
+.github/workflows/** @noaccOS
+
+# Test
+**/test/** @shinnokdisengir
+
+# Type permissions
+*.md @Annopaolo
+*.txt @Annopaolo
+*.sh @noaccOS
+Dockerfile @noaccOS
+docker-compose.y*ml @noaccOS
